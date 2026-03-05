@@ -1,0 +1,2 @@
+# cloudvault-config
+CloudVault configuration
